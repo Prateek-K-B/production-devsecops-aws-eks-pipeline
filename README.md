@@ -160,85 +160,80 @@ Deploy to Amazon EKS
 
 ## 1. GitHub Actions CI/CD Pipeline
 
-> Add Screenshot Here
+![GitHub Actions CI/CD Pipeline](screenshots/01-GitHub-Actions-CI-CD-Pipeline.png)
 
 ---
 
 ## 2. GitHub Repository Structure
 
-> Add Screenshot Here
+![GitHub Repository Structure](screenshots/02-GitHub-Repo-Structure.png)
 
 ---
 
 ## 3. GitHub Actions Workflow Configuration
 
-> Add Screenshot Here
+![GitHub Actions Workflow](screenshots/03-GitHub-Actions-CI-CD-Pipeline-Configuration.png)
 
 ---
 
 ## 4. AI Security Scanner Workflow
 
-> Add Screenshot Here
+![AI Security Scanner](screenshots/04-AI-security-scanner-workflow.png)
 
 ---
 
 ## 5. Backend Dockerfile
 
-> Add Screenshot Here
+![Backend Dockerfile](screenshots/05-Dockerfile-Backend-Service.png)
 
 ---
 
 ## 6. Frontend Dockerfile
 
-> Add Screenshot Here
+![Frontend Dockerfile](screenshots/06-Dockerfile-Frontend-Service.png)
 
 ---
 
 ## 7. Docker Compose Configuration
 
-> Add Screenshot Here
+![Docker Compose](screenshots/07-Docker-Compose-Configuration.png
 
 ---
 
 ## 8. Backend Trivy Scan
 
-> Add Screenshot Here
+![Backend Trivy Scan](screenshots/08-GitHub-Actions-Backend-Trivy-Scan.png)
 
 ---
 
 ## 9. Frontend Trivy Scan
 
-> Add Screenshot Here
+![Backend Trivy Scan](screenshots/08-GitHub-Actions-Backend-Trivy-Scan.png)
 
 ---
 
 ## 10. Kubernetes Manifests
 
-> Add Screenshot Here
+![Kubernetes Manifests](screenshots/10-Kubernetes-Manifests-YAML.png)
 
 ---
 
 ## 11. AWS EC2 Instance
 
-> Add Screenshot Here
+![AWS EC2](screenshots/11-AWS-EC2-Instance.png)
 
 ---
 
 ## 12. Amazon EKS Cluster
 
-> Add Screenshot Here
+![AWS EKS](screenshots/12-AWS-EKS-Cluster.png)
 
 ---
 
 ## 13. Docker Hub Repository
 
-> Add Screenshot Here
+![Docker Hub Repository](screenshots/13-Docker-Hub-Repo.png)
 
----
-
-## 14. Frontend Demo
-
-Add your frontend screen recording or GIF here.
 
 ---
 
@@ -290,7 +285,7 @@ GitHub:
 https://github.com/Prateek-K-B
 
 LinkedIn:
-(Add your LinkedIn Profile)
+https://www.linkedin.com/in/prateekbyadgi/
 
 ---
 
