@@ -233,6 +233,12 @@ jobs:
         id: sha
         run: echo "short=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
 
+      - name: Debug repository
+        run: |
+          pwd
+          ls -la
+          ls -la k8s
+          
       - name: Update K8s manifest with new image tags
         run: |
           IMAGE_TAG=${{ steps.sha.outputs.short }}
