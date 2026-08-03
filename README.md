@@ -214,7 +214,7 @@ Deploy to Amazon EKS
 
 ## 10. Kubernetes Manifests
 
-![Kubernetes Manifests](screenshots/10-Kubernetes-Manifests-YAML.png)
+![Kubernetes Manifests](screenshots/10-Kubernetes-Manifiests-YAML.png)
 
 ---
 
