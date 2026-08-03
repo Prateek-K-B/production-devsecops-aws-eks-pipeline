@@ -172,7 +172,7 @@ Deploy to Amazon EKS
 
 ## 3. GitHub Actions Workflow Configuration
 
-![GitHub Actions Workflow](screenshots/03-GitHub-Actions-CI-CD-Pipeline-Configuration.png)
+![GitHub Actions Workflow](screenshots/03-GitHub-Actions CI-CD Pipeline Configuration.png)
 
 ---
 
@@ -184,13 +184,13 @@ Deploy to Amazon EKS
 
 ## 5. Backend Dockerfile
 
-![Backend Dockerfile](screenshots/05-Dockerfile-Backend-Service.png)
+![Backend Dockerfile](screenshots/05-Dockerfile-Backend Service.png)
 
 ---
 
 ## 6. Frontend Dockerfile
 
-![Frontend Dockerfile](screenshots/06-Dockerfile-Frontend-Service.png)
+![Frontend Dockerfile](screenshots/06-Dockerfile-Frontend Service.png)
 
 ---
 
@@ -214,7 +214,7 @@ Deploy to Amazon EKS
 
 ## 10. Kubernetes Manifests
 
-![Kubernetes Manifests](screenshots/10-Kubernetes-Manifests-YAML.png)
+![Kubernetes Manifests](screenshots/10-Kubernetes-Manifest-YAML.png)
 
 ---
 
